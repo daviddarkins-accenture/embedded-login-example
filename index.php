@@ -65,7 +65,7 @@
 
 <ul class="products">
         <li>
-          <div class="product-button"><a id="chemex_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login for more info</a></div>
+<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
         </li>
       </ul>
 </div>
