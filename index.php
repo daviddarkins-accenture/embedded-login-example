@@ -49,20 +49,20 @@
 ">
 <main role="main">
     <nav class="navbar navbar-expand-md">
-        <img src="https://darkinscomdemo.herokuapp.com/header.png" alt="Responsive image">
+        <img src="https://emeddedlogindarkinsv3.herokuapp.com/header.png" alt="Responsive image">
     </nav>
 
   <div class="container">
     <!-- Example row of columns -->
     <div class="row">
       <div class="col-md-8">
-<img src="https://darkinscomdemo.herokuapp.com/body.png" class="img-fluid" alt="Responsive image">
+<img src="https://emeddedlogindarkinsv3.herokuapp.com/body.png" class="img-fluid" alt="Responsive image">
       </div>
       <div class="col-md-4">
 <div class="media">
   <div class="media-body">
 <div class="embed-responsive embed-responsive-16by9" title="login">
-  <iframe src="https://play01-nycers-play01.cs32.force.com/single/login/"></iframe>
+
 <ul class="products">
         <li>
           <img class="product-image" src="images/products/071715_Heroku_3270-.jpg" alt="">
@@ -93,7 +93,7 @@
 </main>
 </body>
 <footer class="container">
-<img src="https://darkinscomdemo.herokuapp.com/footer.png" class="img-fluid" alt="Responsive image">
+<img src="https://emeddedlogindarkinsv3.herokuapp.com/footer.png" class="img-fluid" alt="Responsive image">
 </footer>
 	
 
