@@ -65,7 +65,7 @@
 
 <ul class="products">
         <li>
-<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
+<div id="sign-in-link" style="position: absolute; top: 40px;right: 40px;"></div>
         </li>
       </ul>
 </div>
