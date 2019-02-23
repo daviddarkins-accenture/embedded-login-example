@@ -102,6 +102,11 @@
 		
 		var targetDiv = document.querySelector(SFIDWidget.config.target);	
 		
+		
+		var redirect = window.location.replace("https:play01-nycers-play01.cs32.force.com/single");
+
+		/*
+
 		var avatar = document.createElement('a'); 
 	 	avatar.href = "https:play01-nycers-play01.cs32.force.com/single";
 	 	//avatar.href = "javascript:showIdentityOverlay();";
@@ -123,7 +128,7 @@
 		iddiv.appendChild(avatar);		
 	
 		targetDiv.innerHTML = '';
-		targetDiv.appendChild(iddiv);	
+		targetDiv.appendChild(iddiv); */
 		
 	}
 	
