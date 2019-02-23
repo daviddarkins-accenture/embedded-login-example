@@ -54,7 +54,7 @@
 	        <img src="https://emeddedlogindarkinsv3.herokuapp.com/header.png" alt="Responsive image" style="width: 100%">
 	    </nav>
 
-	  <div class="container-fluid">
+	  <div class="container-fluid" style="padding-left: 40px; padding-right: 40px;">
 	    <!-- Example row of columns -->
 	    <div class="row">
 	      <div class="col-md-8">
@@ -86,7 +86,7 @@
  </body>
 
 <footer class="container">
-	<img src="https://emeddedlogindarkinsv3.herokuapp.com/footer.png" class="img-fluid" alt="Responsive image">
+	<img src="https://emeddedlogindarkinsv3.herokuapp.com/footer.png" class="img-fluid" alt="Responsive image" style="width: 100%">
 </footer>
 	
 
