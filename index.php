@@ -74,7 +74,7 @@
 	<!-- Login renders for communities login -->
 	<ul>
         <li>
-			<div id="sign-in-link" style="position: absolute; top: 80px;right: 40px;"></div>
+			<div id="sign-in-link" style="position: absolute; top: 5px;right: 20px;"></div>
         </li>
      </ul>
 </div>
