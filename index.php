@@ -69,7 +69,7 @@
       <div class="col-md-4">
 <div class="media">
   <div class="media-body">
-<div class="embed-responsive embed-responsive-16by9" title="login">
+
 
 	<!-- Login renders for communities login -->
 	<ul>
@@ -77,7 +77,7 @@
 			<div id="sign-in-link" style="position: inherit;top: 5px;right: 5px; display: inline-block; vertical-align: top;"></div>
         </li>
      </ul>
-</div>
+
   </div>
 </div>
       </div>
