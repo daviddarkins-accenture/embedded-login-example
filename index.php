@@ -74,7 +74,7 @@
 	<!-- Login renders for communities login -->
 	<ul>
         <li>
-			<div id="sign-in-link" style="position: inherit;top: 5px;right: 5px;"></div>
+			<div id="sign-in-link" style="position: inherit;top: 5px;right: 5px; display: inline-block; vertical-align: top;"></div>
         </li>
      </ul>
 </div>
