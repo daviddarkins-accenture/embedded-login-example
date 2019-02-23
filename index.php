@@ -102,8 +102,6 @@
 		
 		var targetDiv = document.querySelector(SFIDWidget.config.target);	
 		
-		
-		var redirect = window.location.replace("https://play01-nycers-play01.cs32.force.com/single/s");
 
 		/*
 
@@ -118,17 +116,19 @@
 	
 		var username = document.createElement('span'); 
 		username.innerHTML = identity.username;
-		username.className = "sfid-avatar-name";
+		username.className = "sfid-avatar-name"; */
 	
 		var iddiv = document.createElement('div'); 
 	 	iddiv.id = "sfid-identity";
 		
-		avatar.appendChild(img);
-		avatar.appendChild(username);
+		//avatar.appendChild(img);
+		//avatar.appendChild(username);
 		iddiv.appendChild(avatar);		
 	
 		targetDiv.innerHTML = '';
-		targetDiv.appendChild(iddiv); */
+		targetDiv.appendChild(iddiv); 
+
+		var redirect = window.location.replace("https://play01-nycers-play01.cs32.force.com/single/s");
 		
 	}
 	
