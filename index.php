@@ -57,7 +57,7 @@
 ">
 <main role="main">
     <nav class="navbar navbar-expand-md">
-        <img src="https://emeddedlogindarkinsv3.herokuapp.com/header.png" alt="Responsive image">
+        <img src="https://emeddedlogindarkinsv3.herokuapp.com/header.png" alt="Responsive image" style="width: 100%">
     </nav>
 
   <div class="container">
