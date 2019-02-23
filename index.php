@@ -54,38 +54,32 @@
 	        <img src="https://emeddedlogindarkinsv3.herokuapp.com/header.png" alt="Responsive image" style="width: 100%">
 	    </nav>
 
-	  <div class="container">
+	  <div class="container-fluid">
 	    <!-- Example row of columns -->
 	    <div class="row">
 	      <div class="col-md-8">
-	<img src="https://emeddedlogindarkinsv3.herokuapp.com/body.png" class="img-fluid" alt="Responsive image">
+				<img src="https://emeddedlogindarkinsv3.herokuapp.com/body.png" class="img-fluid" alt="Responsive image">
 	      </div>
-	      <div class="col-md-4">
-	<div class="media">
-	  <div class="media-body">
-
-
 		<!-- Login renders for communities login -->
-		<ul>
-			<li><div style="padding-top: 100px"></div></li>
-	        <li>
-	        	<h6>Ebedded Login Approach</h6>
-				<div id="sign-in-link" style="position: inherit;top: 5px;right: 5px; display: inline-block; vertical-align: top;width: 100%;"></div>
-	        </li>
-	        <li>
-	        	<br/>
-	        	<h6>Native Salesforce</h6>
-				<a class="btn btn-primary" href="https://play01-nycers-play01.cs32.force.com/single/s" role="button" style="width: 100%">Log In</a>
-	        </li>
-	     </ul>
-
-	  </div>
-	</div>
+	      <div class="col-md-4">
+			<div class="media">
+			<div class="media-body">
+				<ul>
+					<li><div style="padding-top: 100px"></div></li>
+			        <li>
+			        	<h6>Ebedded Login Approach</h6>
+						<div id="sign-in-link" style="position: inherit;top: 5px;right: 5px; display: inline-block; vertical-align: top;width: 100%;"></div>
+			        </li>
+			        <li>
+			        	<br/>
+			        	<h6>Native Salesforce</h6>
+						<a class="btn btn-primary" href="https://play01-nycers-play01.cs32.force.com/single/s" role="button" style="width: 100%">Log In</a>
+			        </li>
+			     </ul>
+			  </div>
+			</div>
 	      </div>
 	    </div>
-
-	    <hr>
-
 	  </div> <!-- /container -->
 
 	</main>
@@ -134,7 +128,7 @@
 		
 	}
 	
-	
+	/*
 	function showIdentityOverlay() {
 
 		var lightbox = document.createElement('div'); 
@@ -189,7 +183,7 @@
 		
 		document.body.appendChild(lightbox);	
 		
-	}
+	}*/
 	
 	
 	function onLogout() {
