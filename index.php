@@ -100,7 +100,7 @@
 
 	function onLogin(identity) {
 		
-		//var targetDiv = document.querySelector(SFIDWidget.config.target);	
+		var targetDiv = document.querySelector(SFIDWidget.config.target);	
 		
 
 		/*
