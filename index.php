@@ -45,7 +45,7 @@
 	<!-- Login Scripts -->
 	<link href="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>/servlet/servlet.loginwidgetcontroller?type=css" rel="stylesheet" type="text/css" />
 
-    <script src="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>/servlet/servlet.loginwidgetcontroller?type=javascript_widget&min=false&cacheMaxAge=6000" async defer></script>
+    <script src="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>/servlet/servlet.loginwidgetcontroller?type=javascript_widget&min=false&cacheMaxAge=120" async defer></script>
 
 
 
