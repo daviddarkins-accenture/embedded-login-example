@@ -46,58 +46,53 @@
 	<link href="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>/servlet/servlet.loginwidgetcontroller?type=css" rel="stylesheet" type="text/css" />
 
     <script src="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>/servlet/servlet.loginwidgetcontroller?type=javascript_widget&min=false&cacheMaxAge=120" async defer></script>
-
-
-
-
   </head>
   
-<body style="
-    padding-top: 0px;
-">
-<main role="main">
-    <nav class="navbar navbar-expand-md">
-        <img src="https://emeddedlogindarkinsv3.herokuapp.com/header.png" alt="Responsive image" style="width: 100%">
-    </nav>
+  <body style="padding-top: 0px;">
+	<main role="main">
+	    <nav class="navbar navbar-expand-md">
+	        <img src="https://emeddedlogindarkinsv3.herokuapp.com/header.png" alt="Responsive image" style="width: 100%">
+	    </nav>
 
-  <div class="container">
-    <!-- Example row of columns -->
-    <div class="row">
-      <div class="col-md-8">
-<img src="https://emeddedlogindarkinsv3.herokuapp.com/body.png" class="img-fluid" alt="Responsive image">
-      </div>
-      <div class="col-md-4">
-<div class="media">
-  <div class="media-body">
+	  <div class="container">
+	    <!-- Example row of columns -->
+	    <div class="row">
+	      <div class="col-md-8">
+	<img src="https://emeddedlogindarkinsv3.herokuapp.com/body.png" class="img-fluid" alt="Responsive image">
+	      </div>
+	      <div class="col-md-4">
+	<div class="media">
+	  <div class="media-body">
 
 
-	<!-- Login renders for communities login -->
-	<ul>
-		<li><div style="padding-top: 100px"></div></li>
-        <li>
-        	<h6>Ebedded Login Approach</h6>
-			<div id="sign-in-link" style="position: inherit;top: 5px;right: 5px; display: inline-block; vertical-align: top;width: 100%;"></div>
-        </li>
-        <li>
-        	<br/>
-        	<h6>Native Salesforce</h6>
-			<a class="btn btn-primary" href="https://play01-nycers-play01.cs32.force.com/single/s" role="button" style="width: 100%">Log In</a>
-        </li>
-     </ul>
+		<!-- Login renders for communities login -->
+		<ul>
+			<li><div style="padding-top: 100px"></div></li>
+	        <li>
+	        	<h6>Ebedded Login Approach</h6>
+				<div id="sign-in-link" style="position: inherit;top: 5px;right: 5px; display: inline-block; vertical-align: top;width: 100%;"></div>
+	        </li>
+	        <li>
+	        	<br/>
+	        	<h6>Native Salesforce</h6>
+				<a class="btn btn-primary" href="https://play01-nycers-play01.cs32.force.com/single/s" role="button" style="width: 100%">Log In</a>
+	        </li>
+	     </ul>
 
-  </div>
-</div>
-      </div>
-    </div>
+	  </div>
+	</div>
+	      </div>
+	    </div>
 
-    <hr>
+	    <hr>
 
-  </div> <!-- /container -->
+	  </div> <!-- /container -->
 
-</main>
-</body>
+	</main>
+ </body>
+
 <footer class="container">
-<img src="https://emeddedlogindarkinsv3.herokuapp.com/footer.png" class="img-fluid" alt="Responsive image">
+	<img src="https://emeddedlogindarkinsv3.herokuapp.com/footer.png" class="img-fluid" alt="Responsive image">
 </footer>
 	
 
