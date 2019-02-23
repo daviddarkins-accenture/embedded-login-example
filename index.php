@@ -71,11 +71,12 @@
   <div class="media-body">
 <div class="embed-responsive embed-responsive-16by9" title="login">
 
-<ul class="products">
+	<!-- Login renders for communities login -->
+	<ul>
         <li>
-<div id="sign-in-link" style="position: absolute; top: 40px;right: 40px;"></div>
+			<div id="sign-in-link" style="position: absolute; top: 80px;right: 40px;"></div>
         </li>
-      </ul>
+     </ul>
 </div>
   </div>
 </div>
