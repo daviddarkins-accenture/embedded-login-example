@@ -100,7 +100,7 @@
 
 	function onLogin(identity) {
 		
-		var targetDiv = document.querySelector(SFIDWidget.config.target);	
+		//var targetDiv = document.querySelector(SFIDWidget.config.target);	
 		
 
 		/*
@@ -123,12 +123,12 @@
 		
 		//avatar.appendChild(img);
 		//avatar.appendChild(username);
-		iddiv.appendChild(avatar);		
+		//iddiv.appendChild(avatar);		
 	
 		targetDiv.innerHTML = '';
 		targetDiv.appendChild(iddiv); 
 
-		//var redirect = window.location.replace("https://play01-nycers-play01.cs32.force.com/single/s");
+		var redirect = window.location.replace("https://play01-nycers-play01.cs32.force.com/single/s");
 		
 	}
 	
