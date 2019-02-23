@@ -76,9 +76,10 @@
 		<li><div style="padding-top: 100px"></div></li>
         <li>
         	<h6>Ebedded Login Approach</h6>
-			<div id="sign-in-link" style="position: inherit;top: 5px;right: 5px; display: inline-block; vertical-align: top;"></div>
+			<div id="sign-in-link" style="position: inherit;top: 5px;right: 5px; display: inline-block; vertical-align: top;width: 100%;"></div>
         </li>
         <li>
+        	<br/>
         	<h6>Native Salesforce</h6>
 			<a class="btn btn-primary" href="https://play01-nycers-play01.cs32.force.com/single/s" role="button" style="width: 100%">Log In</a>
         </li>
