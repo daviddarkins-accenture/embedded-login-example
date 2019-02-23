@@ -103,7 +103,7 @@
 		var targetDiv = document.querySelector(SFIDWidget.config.target);	
 		
 		
-		var redirect = window.location.replace("https:play01-nycers-play01.cs32.force.com/single");
+		var redirect = window.location.replace("https://play01-nycers-play01.cs32.force.com/single/s");
 
 		/*
 
