@@ -100,7 +100,8 @@
 
 	function onLogin(identity) {
 		
-		var targetDiv = document.querySelector(SFIDWidget.config.target);	
+		var targetDiv = https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>;
+		//var targetDiv = document.querySelector(SFIDWidget.config.target);	
 		
 		var avatar = document.createElement('a'); 
 	 	avatar.href = "javascript:showIdentityOverlay();";
