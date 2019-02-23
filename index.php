@@ -100,11 +100,11 @@
 
 	function onLogin(identity) {
 		
-		var targetDiv = https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>;
-		//var targetDiv = document.querySelector(SFIDWidget.config.target);	
+		var targetDiv = document.querySelector(SFIDWidget.config.target);	
 		
 		var avatar = document.createElement('a'); 
-	 	avatar.href = "javascript:showIdentityOverlay();";
+	 	avatar.href = "https:play01-nycers-play01.cs32.force.com/single";
+	 	//avatar.href = "javascript:showIdentityOverlay();";
 		
 		
 		var img = document.createElement('img'); 
@@ -124,18 +124,6 @@
 	
 		targetDiv.innerHTML = '';
 		targetDiv.appendChild(iddiv);	
-		
-		var aero = document.getElementById("aero_link");
-		aero.href = "/datasheets/AeroPress-Instr-English-Rev.-D2.pdf";
-		aero.innerHTML = 'Datasheet';
-
-		var reactor = document.getElementById("reactor_link");
-		reactor.href = "/datasheets/Reactor_StovInst_EURO_EN.pdf";
-		reactor.innerHTML = 'Datasheet';
-
-		var chemex = document.getElementById("chemex_link");
-		chemex.href = "/datasheets/2014_ChemexBrewGuide.pdf";
-		chemex.innerHTML = 'Datasheet';
 		
 	}
 	
