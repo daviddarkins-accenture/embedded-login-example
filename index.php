@@ -80,7 +80,7 @@
         </li>
         <li>
         	<h6>Native Salesforce</h6>
-			<a class="btn btn-primary" href="https://play01-nycers-play01.cs32.force.com/single/s" role="button">Login</a>
+			<a class="btn btn-primary" href="https://play01-nycers-play01.cs32.force.com/single/s" role="button" style="width: 100%">Log In</a>
         </li>
      </ul>
 
