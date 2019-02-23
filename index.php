@@ -74,11 +74,11 @@
 	<!-- Login renders for communities login -->
 	<ul>
         <li>
-        	<h1>Ebedded Login Approach</h1>
+        	<h3>Ebedded Login Approach</h3>
 			<div id="sign-in-link" style="position: inherit;top: 5px;right: 5px; display: inline-block; vertical-align: top;"></div>
         </li>
         <li>
-        	<h1>Native Salesforce</h1>
+        	<h3>Native Salesforce</h3>
 			<a class="btn btn-primary" href="https://play01-nycers-play01.cs32.force.com/single/s" role="button">Login</a>
         </li>
      </ul>
