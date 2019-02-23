@@ -85,8 +85,8 @@
 	</main>
  </body>
 
-<footer class="container">
-	<img src="https://emeddedlogindarkinsv3.herokuapp.com/footer.png" class="img-fluid" alt="Responsive image" style="width: 100%">
+<footer class="container-fluid" style="padding-top: 40px;">
+	<img src="https://emeddedlogindarkinsv3.herokuapp.com/footer.png" class="img-fluid" alt="Responsive image" style="width:100%">
 </footer>
 	
 
