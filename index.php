@@ -100,11 +100,9 @@
 		
 
 		/*
-
 		var avatar = document.createElement('a'); 
 	 	avatar.href = "https:play01-nycers-play01.cs32.force.com/single";
-	 	//avatar.href = "javascript:showIdentityOverlay();";
-		
+	 	//avatar.href = "javascript:showIdentityOverlay();"
 		
 		var img = document.createElement('img'); 
 	 	img.src = identity.photos.thumbnail; 
@@ -188,18 +186,6 @@
 	
 	function onLogout() {
 		SFIDWidget.init();
-		
-		var aero = document.getElementById("aero_link");
-		aero.href = "#";
-		aero.innerHTML = 'Login for more info';
-
-		var reactor = document.getElementById("reactor_link");
-		reactor.href = "#";
-		reactor.innerHTML = 'Login for more info';
-
-		var chemex = document.getElementById("chemex_link");
-		chemex.href = "#";
-		chemex.innerHTML = 'Login for more info';
 
 	}
 
